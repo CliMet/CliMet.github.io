@@ -1,7 +1,7 @@
 ---
 ---
 
-# CliMet's Website
+# About us
 
 Hello! This is CliMet Group led by Professor Hui Su at HKUST. The primary research interests of the CliMet Group include climate variability and climate change, tropical convection, extreme weather, satellite remote sensing and related areas. Using ground-based and satellite data and numerical models, we focus on advancing our understanding of climate variability, climate change, and extreme weather. 
 
