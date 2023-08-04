@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: Hui Su
 image: images/photo.jpg
 role: pi
 aliases:
