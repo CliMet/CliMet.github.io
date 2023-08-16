@@ -37,11 +37,10 @@
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: More
+  subtitle:
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://www.ce.ust.hk/news/civl-student-part-award-winning-team-innovation-and-entrepreneurship-competition
+  description: Advisor of Award-Winning Team at Innovation and Entrepreneurship Competition
   tags:
     - software
