@@ -80,6 +80,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-## More
+## News
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
