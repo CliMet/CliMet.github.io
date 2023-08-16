@@ -1,8 +1,8 @@
 ---
-name: Sarah Johnson
+name: Shuangchen Du
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: MPhil Student
+role: mphil
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
