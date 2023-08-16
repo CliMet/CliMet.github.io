@@ -14,6 +14,11 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+mphil:
+  icon: fa-brands fa-searchengin
+  description: MPhil student
+
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
