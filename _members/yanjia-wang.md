@@ -1,7 +1,7 @@
 ---
 name: Yanjia Wang
 image: images/Yanjia.jpg
-role: pi
+role: phd
 aliases:
   - Y. Wang
   - Y Wang
